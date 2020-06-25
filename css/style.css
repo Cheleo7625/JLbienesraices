@@ -106,7 +106,7 @@ h4 {
 }
 
 .site-header.inicio {
-    background-image: url(../img/header.jpg);
+    background-image: url(../imgjl/JL1.jpg);
     background-position: center center;
     background-size: cover;
     height: 100vh;
@@ -285,7 +285,7 @@ h4 {
 /* Contacto Home */
 
 .imagen-contacto {
-    background-image:url(../img/encuentra.jpg);
+    background-image:url(../imgjl/JL2.jpg);
     background-position: center center;
     height: 40rem;
     background-size:cover; 
